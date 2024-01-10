@@ -2,7 +2,7 @@ package org.zerock.myapp.level1;
 
 import java.util.*;
 
-public class 정수내림차순으로배치하기 {
+public class ArrangeIntegersInDescendingOrder {
     public static void main(String[] args) {
         long n = 118372;
         Solution solution = new Solution();
