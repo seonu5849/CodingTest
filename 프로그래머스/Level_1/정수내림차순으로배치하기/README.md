@@ -1,6 +1,6 @@
 # 정수 내림차순으로 배치하기
 
-# 문제링크 (https://school.programmers.co.kr/learn/courses/30/lessons/12933)
+# [문제링크](https://school.programmers.co.kr/learn/courses/30/lessons/12933)
 
 # 문제설명
  <p>함수 solution은 정수 n을 매개변수로 입력받습니다. 
