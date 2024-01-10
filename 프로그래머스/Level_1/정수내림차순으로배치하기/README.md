@@ -2,6 +2,8 @@
 
 ### [문제링크](https://school.programmers.co.kr/learn/courses/30/lessons/12933)
 
+<p>
+ 
 ### 문제설명
  <p>함수 solution은 정수 n을 매개변수로 입력받습니다. 
  
