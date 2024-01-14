@@ -2,8 +2,12 @@
 
 ### [문제링크](https://school.programmers.co.kr/learn/courses/30/lessons/12933)
 
+### 성능요약
+
+메모리: 77.9MB, 시간: 1.14ms
+
 <p>
- 
+
 ### 문제설명
  <p>함수 solution은 정수 n을 매개변수로 입력받습니다. 
  

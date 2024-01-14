@@ -2,6 +2,10 @@
 
 ### [문제링크](https://school.programmers.co.kr/learn/courses/30/lessons/12940)
 
+### 성능요약
+
+메모리: 79.9MB, 시간: 11.42ms
+
 <p>
 
 ### 문제 설명
